@@ -1,0 +1,2 @@
+qcloud-cos-v4
+pyyaml
